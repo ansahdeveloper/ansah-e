@@ -1,5 +1,5 @@
 Ansah E - Automated Customer Support Solution
-Ansah E is an AI-powered customer support solution designed to automate and streamline customer service for e-commerce businesses. By leveraging advanced AI models like BiText Mistral-7B-Customer-Support, Ansah E provides fast and accurate responses to customer queries, reducing costs and improving operational efficiency.
+Ansah E is an AI-powered customer support solution designed to automate and streamline customer service for e-commerce businesses. By leveraging advanced AI models, Ansah E provides fast and accurate responses to customer queries, reducing costs and improving operational efficiency.
 
 Features
 AI-Powered Support: Utilizes the Mistral-7B model for highly accurate and intelligent customer support responses.
